@@ -1,3 +1,8 @@
+# Happi is a chatbot based website made with reaact 
+The main intent is to provide mother's and preganant women suffering from mental health problems support by providing them articles to read.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
