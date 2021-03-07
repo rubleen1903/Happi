@@ -36,4 +36,4 @@ We learned about basic machine learning in Python and how it wasn't the right fi
 The chatbot function needs to be improved as well as finish the layout for webpage design. We hope we can expand this to help ease the stress of motherhood!
 
 Links: Devpost
-[https://devpost.com/software/happi-sb53pa?ref_content=user-portfolio&ref_feature=in_progress](Devpost)
+[Devpost](https://devpost.com/software/happi-sb53pa?ref_content=user-portfolio&ref_feature=in_progress)
